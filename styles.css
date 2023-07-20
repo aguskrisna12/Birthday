@@ -5,9 +5,15 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+@import url('https://fonts.cdnfonts.com/css/valentine-day-personal-use');
+
+                
 body {
   background-color: #eac285;
   margin: 0;
+  font-family: 'Valentine Day Personal Use', sans-serif;
+  letter-spacing: 4px;
 }
 .container {
   width: 400px;
