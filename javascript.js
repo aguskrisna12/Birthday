@@ -41,13 +41,13 @@ function displayAnim (){
 }
 
 
-window.addEventListener("click", () => {
-  removeBalloons();
-});
+// window.addEventListener("click", () => {
+//   removeBalloons();
+// });
 
 const displayParagf = () => {
   let paragf = document.getElementById('p')
-  paragf.innerText = 'Happy Birthday Nopia'
+  paragf.innerText = 'Happy Birthday Nopia ❤️'
 }
 
 
